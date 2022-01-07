@@ -1,5 +1,7 @@
 # Binary-Search-Tree-Project
 Patika.dev Veri yapıları eğitimi kapsamında yaptığım binary search tree projesi
+
+
 [0,1,2,3,4,5,6,7,8,9] root değeri = 5
 
 ```
